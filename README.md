@@ -33,7 +33,7 @@ The **Random Forest** ensemble model achieved the highest performance, effective
 ### Confusion Matrix
 *(The model successfully detected 952 out of 1000 attacks in the hidden testing set, with only 28 false alarms).*
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](result/confusion_matrix.png)
 
 ## 🚀 Implementation & How to Run
 
@@ -52,6 +52,6 @@ This project requires Python 3.x and the following standard machine learning lib
 
 ## 📁 Repository Contents
 * `IoMT.ipynb` - The complete data preprocessing, training, and evaluation pipeline.
-* `Internship_Report_CITK.pdf` - The full academic report detailing the methodology, challenges, and literature review.
-* `ML_Model_Comparison.csv` - The exported dataset used for model training and testing.
-* `confusion_matrix.png` - Visual output of the Random Forest model's performance.
+* `Internship_Report_CITKK.pdf` - The full academic report detailing the methodology, challenges, and literature review.
+* `result/ML_Model_Comparison.csv` - The exported dataset used for model training and testing.
+* `result/confusion_matrix.png` - Visual output of the Random Forest model's performance.
