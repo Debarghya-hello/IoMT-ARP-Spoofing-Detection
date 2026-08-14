@@ -48,4 +48,10 @@ This project requires Python 3.x and the following standard machine learning lib
 ### Running Locally
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/IoMT-ARP-Spoofing-Detection.git](https://github.com/YourUsername/IoMT-ARP-Spoofing-Detection.git)
+  git clone [https://github.com/Debarghya-hello/IoMT-ARP-Spoofing-Detection.git](https://github.com/Debarghya-hello/IoMT-ARP-Spoofing-Detection.git)
+
+## 📁 Repository Contents
+* `IoMT.ipynb` - The complete data preprocessing, training, and evaluation pipeline.
+* `Internship_Report_CITK.pdf` - The full academic report detailing the methodology, challenges, and literature review.
+* `ML_Model_Comparison.csv` - The exported dataset used for model training and testing.
+* `confusion_matrix.png` - Visual output of the Random Forest model's performance.
